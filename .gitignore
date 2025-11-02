@@ -32,8 +32,8 @@ tests/_support/_generated
 #vagrant folder
 /.vagrant
 
-composer.json
-composer.lock
-docker-compose.yml
-requirements.php
-vendor
+/.composer.json
+/.composer.lock
+/.docker-compose.yml
+/.requirements.php
+/.vendor
